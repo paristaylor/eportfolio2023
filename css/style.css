@@ -59,7 +59,7 @@ p {
     font-weight: 300;
 	line-height: 23px;
     letter-spacing: 0.2px;
-    color: #97D2C7;
+    color: #337367;
 }
 
 a:hover, a:focus, a:active, a.active {
@@ -460,7 +460,7 @@ figure.effect-bubba:hover p {
 --------------------*/
 
 .dark-bg {
-    background: #337367;
+    background: #5AC9B5;
     color: #fff;
 }
 
@@ -473,7 +473,7 @@ figure.effect-bubba:hover p {
 }
 
 .light-bg {
-	background-color: #5AC9B5;
+	background-color: #97D2C7;
 }
 
 .overlay-dark:before, .overlay-light:before {
